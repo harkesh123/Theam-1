@@ -1,0 +1,2798 @@
+# Copyright (C) 2014 the WordPress team
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Konado 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/roadthemes\n"
+"POT-Creation-Date: 2018-10-13 09:56+0700\n"
+"PO-Revision-Date: 2015-12-14 21:10+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-KeywordsList: _e;_n;__;_x;_ex;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../konado/404.php:18
+msgid "404"
+msgstr ""
+
+#: ../konado/404.php:19
+msgid "PAGE NOT BE FOUND"
+msgstr ""
+
+#: ../konado/404.php:20
+msgid ""
+"Sorry but the page you are looking for does not exist, have been removed, name changed or is "
+"temporarity unavailable."
+msgstr ""
+
+#: ../konado/404.php:22
+msgid "Back to home"
+msgstr ""
+
+#: ../konado/404.php:22
+msgid "Back to home page"
+msgstr ""
+
+#: ../konado/archive.php:63 ../konado/author.php:57 ../konado/category.php:57
+#: ../konado/functions.php:1040 ../konado/image.php:48 ../konado/index.php:70
+#: ../konado/search.php:51 ../konado/single.php:47 ../konado/tag.php:57
+#: ../konado/theme-config.php:1084
+msgid "Blog"
+msgstr ""
+
+#: ../konado/author.php:83
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../konado/author.php:112
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../konado/category.php:75
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:327 ../konado/functions.php:1451
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:328 ../konado/functions.php:1452
+msgid "Install Plugins"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:330 ../konado/functions.php:1453
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:333 ../konado/functions.php:1454
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:385 ../konado/functions.php:1465
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:386 ../konado/class-tgm-plugin-activation.php:827
+#: ../konado/class-tgm-plugin-activation.php:2533
+#: ../konado/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:387 ../konado/class-tgm-plugin-activation.php:3159
+#: ../konado/functions.php:1466
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:388 ../konado/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. Please update the "
+"plugin."
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug and renaming did "
+"not work."
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:934 ../konado/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin according to the "
+"WordPress guidelines."
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are not packaged in "
+"a folder."
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:2342
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:2482
+msgid "unknown"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:2554
+#: ../konado/woocommerce/myaccount/my-orders.php:42
+#: ../konado/woocommerce/myaccount/my-orders.php:63
+msgid "Status"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:3509
+#: ../konado/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:3509
+#: ../konado/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some hosts, so please "
+"be patient."
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../konado/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../konado/comments.php:31 ../konado/functions.php:1251
+msgid "1 comment"
+msgstr ""
+
+#: ../konado/comments.php:51 ../twentyfifteen/comments.php:69
+#: ../twentyseventeen/comments.php:75 ../twentysixteen/comments.php:69
+msgid "Comments are closed."
+msgstr ""
+
+#: ../konado/content-audio.php:63 ../konado/content-gallery.php:64
+#: ../konado/content-image.php:66 ../konado/content-video.php:65 ../konado/content.php:66
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../konado/content-audio.php:64 ../konado/content-gallery.php:65
+#: ../konado/content-image.php:67 ../konado/content-page.php:20 ../konado/content-video.php:66
+#: ../konado/content.php:67 ../konado/image.php:122 ../twentyfifteen/content-link.php:36
+#: ../twentyfifteen/content-page.php:25 ../twentyfifteen/content.php:38
+#: ../twentyfifteen/image.php:59 ../twentyseventeen/template-parts/page/content-page.php:25
+#: ../twentyseventeen/template-parts/post/content-audio.php:88
+#: ../twentyseventeen/template-parts/post/content-gallery.php:75
+#: ../twentyseventeen/template-parts/post/content-image.php:64
+#: ../twentyseventeen/template-parts/post/content-video.php:87
+#: ../twentyseventeen/template-parts/post/content.php:61 ../twentysixteen/image.php:56
+#: ../twentysixteen/template-parts/content-page.php:23
+#: ../twentysixteen/template-parts/content-single.php:25
+#: ../twentysixteen/template-parts/content.php:33
+msgid "Pages:"
+msgstr ""
+
+#: ../konado/content-audio.php:69 ../konado/content-audio.php:87
+#: ../konado/content-gallery.php:70 ../konado/content-gallery.php:87
+#: ../konado/content-image.php:72 ../konado/content-image.php:89 ../konado/content-video.php:71
+#: ../konado/content-video.php:88 ../konado/content.php:72 ../konado/content.php:88
+msgid "By"
+msgstr ""
+
+#: ../konado/content-audio.php:77 ../konado/content-gallery.php:77
+#: ../konado/content-image.php:79 ../konado/content-video.php:78 ../konado/content.php:79
+msgid "Read more"
+msgstr ""
+
+#: ../konado/content-audio.php:111 ../konado/content-gallery.php:113
+#: ../konado/content-image.php:115 ../konado/content-video.php:112 ../konado/content.php:111
+msgid "About the Author:"
+msgstr ""
+
+#: ../konado/content-audio.php:124 ../konado/content-gallery.php:126
+#: ../konado/content-image.php:128 ../konado/content-video.php:125 ../konado/content.php:124
+msgid "Related posts"
+msgstr ""
+
+#: ../konado/content-none.php:13 ../konado/index.php:116 ../konado/search.php:83
+#: ../twentyfifteen/content-none.php:15 ../twentyseventeen/search.php:21
+#: ../twentyseventeen/template-parts/post/content-none.php:17
+#: ../twentysixteen/template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: ../konado/content-none.php:17 ../konado/index.php:120
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr ""
+
+#: ../konado/footer.php:42
+msgid "Copyright"
+msgstr ""
+
+#: ../konado/footer.php:42
+msgid "All Rights Reserved"
+msgstr ""
+
+#: ../konado/functions.php:229 ../konado/functions.php:795 ../konado/functions.php:801
+#: ../konado/functions.php:805
+msgid "Search..."
+msgstr ""
+
+#: ../konado/functions.php:248 ../konado/functions.php:779 ../konado/functions.php:785
+#: ../konado/functions.php:789
+msgid "Search product..."
+msgstr ""
+
+#: ../konado/functions.php:405 ../twentyfifteen/functions.php:85
+#: ../twentysixteen/functions.php:88 ../twentysixteen/header.php:51
+msgid "Primary Menu"
+msgstr ""
+
+#: ../konado/functions.php:406
+msgid "Mobile Menu"
+msgstr ""
+
+#: ../konado/functions.php:407 ../twentyseventeen/functions.php:63
+#: ../twentyseventeen/functions.php:183
+#: ../twentyseventeen/template-parts/navigation/navigation-top.php:12
+msgid "Top Menu"
+msgstr ""
+
+#: ../konado/functions.php:408 ../konado/include/map_shortcodes.php:126
+#: ../konado/theme-config.php:456
+msgid "Categories Menu"
+msgstr ""
+
+#: ../konado/functions.php:477 ../konado/include/shortcodes.php:164
+#: ../konado/include/wooajax.php:29
+#: ../konado/woocommerce/single-product/product-image-magnifier.php:40
+msgid "image"
+msgstr ""
+
+#: ../konado/functions.php:884 ../twentyseventeen/functions.php:315
+#: ../twentyseventeen/sidebar.php:18
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../konado/functions.php:886
+msgid "Sidebar on blog page"
+msgstr ""
+
+#: ../konado/functions.php:894
+msgid "Shop Sidebar"
+msgstr ""
+
+#: ../konado/functions.php:896
+msgid "Sidebar on shop page (only sidebar shop layout)"
+msgstr ""
+
+#: ../konado/functions.php:904
+msgid "Pages Sidebar"
+msgstr ""
+
+#: ../konado/functions.php:906
+msgid "Sidebar on content pages"
+msgstr ""
+
+#: ../konado/functions.php:984 ../konado/functions.php:1034
+msgid "Home"
+msgstr ""
+
+#: ../konado/functions.php:1020 ../konado/functions.php:1021 ../konado/functions.php:1022
+#, php-format
+msgid "Archive for: %s"
+msgstr ""
+
+#: ../konado/functions.php:1021
+msgid "F Y"
+msgstr ""
+
+#: ../konado/functions.php:1022
+msgid "Y"
+msgstr ""
+
+#: ../konado/functions.php:1023
+msgid "Archive for"
+msgstr ""
+
+#: ../konado/functions.php:1024
+msgid "Blog Archives"
+msgstr ""
+
+#: ../konado/functions.php:1025
+msgid "Search Results"
+msgstr ""
+
+#: ../konado/functions.php:1109 ../twentyfifteen/functions.php:188
+#: ../twentyfifteen/functions.php:196 ../twentyfifteen/functions.php:204
+#: ../twentyseventeen/functions.php:269 ../twentysixteen/functions.php:203
+#: ../twentysixteen/functions.php:208 ../twentysixteen/functions.php:213
+msgid "on"
+msgstr ""
+
+#: ../konado/functions.php:1140 ../konado/single.php:82
+msgid "Post navigation"
+msgstr ""
+
+#: ../konado/functions.php:1141
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../konado/functions.php:1142
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../konado/functions.php:1159 ../twentyfifteen/single.php:36
+#: ../twentyseventeen/comments.php:66 ../twentyseventeen/single.php:31
+#: ../twentysixteen/single.php:37
+msgid "Previous"
+msgstr ""
+
+#: ../konado/functions.php:1160 ../twentyfifteen/single.php:33
+#: ../twentyseventeen/comments.php:67 ../twentyseventeen/single.php:32
+#: ../twentysixteen/single.php:34
+msgid "Next"
+msgstr ""
+
+#: ../konado/functions.php:1184
+msgid "Pingback:"
+msgstr ""
+
+#: ../konado/functions.php:1184
+msgid "(Edit)"
+msgstr ""
+
+#: ../konado/functions.php:1203
+msgid "Post author"
+msgstr ""
+
+#: ../konado/functions.php:1208
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../konado/functions.php:1212 ../twentyseventeen/comments.php:60
+msgid "Reply"
+msgstr ""
+
+#: ../konado/functions.php:1216
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../konado/functions.php:1221 ../konado/image.php:149 ../twentyfifteen/content-link.php:56
+#: ../twentyfifteen/content-page.php:35 ../twentyfifteen/content-search.php:28
+#: ../twentyfifteen/content-search.php:33 ../twentyfifteen/content.php:57
+#: ../twentyfifteen/image.php:71
+msgid "Edit"
+msgstr ""
+
+#: ../konado/functions.php:1247
+msgid "0 comments"
+msgstr ""
+
+#: ../konado/functions.php:1249 ../konado/functions.php:1300
+msgid " comments"
+msgstr ""
+
+#: ../konado/functions.php:1258 ../konado/functions.php:1262
+#, php-format
+msgid "Tags: %2$s"
+msgstr ""
+
+#: ../konado/functions.php:1260
+#, php-format
+msgid "%1$s / Tags: %2$s"
+msgstr ""
+
+#: ../konado/functions.php:1264 ../konado/functions.php:1307
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: ../konado/functions.php:1276 ../twentyfifteen/author-bio.php:34
+#: ../twentysixteen/template-parts/biography.php:33
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../konado/functions.php:1280
+#, php-format
+msgid "Posted by %1$s  %2$s"
+msgstr ""
+
+#: ../konado/functions.php:1298
+msgid "<span>0</span> comments"
+msgstr ""
+
+#: ../konado/functions.php:1302
+msgid "<span>1</span> comment"
+msgstr ""
+
+#: ../konado/functions.php:1318
+msgid "Roadthemes Helper"
+msgstr ""
+
+#: ../konado/functions.php:1328
+msgid "Mega Main Menu"
+msgstr ""
+
+#: ../konado/functions.php:1335
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../konado/functions.php:1349
+msgid "Visual Composer"
+msgstr ""
+
+#: ../konado/functions.php:1356
+msgid "Templatera"
+msgstr ""
+
+#: ../konado/functions.php:1366
+msgid "Redux Framework"
+msgstr ""
+
+#: ../konado/functions.php:1373
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../konado/functions.php:1378
+msgid "Instagram Feed"
+msgstr ""
+
+#: ../konado/functions.php:1384
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: ../konado/functions.php:1389
+msgid "Shortcodes Ultimate"
+msgstr ""
+
+#: ../konado/functions.php:1394
+msgid "Simple Local Avatars"
+msgstr ""
+
+#: ../konado/functions.php:1399 ../konado/include/map_shortcodes.php:334
+#: ../konado/theme-config.php:1170
+msgid "Testimonials"
+msgstr ""
+
+#: ../konado/functions.php:1404
+msgid "TinyMCE Advanced"
+msgstr ""
+
+#: ../konado/functions.php:1409
+msgid "Widget Importer & Exporter"
+msgstr ""
+
+#: ../konado/functions.php:1414
+msgid "WooCommerce"
+msgstr ""
+
+#: ../konado/functions.php:1419
+msgid "YITH WooCommerce Compare"
+msgstr ""
+
+#: ../konado/functions.php:1424
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: ../konado/functions.php:1429
+msgid "YITH WooCommerce Zoom Magnifier"
+msgstr ""
+
+#: ../konado/functions.php:1467
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../konado/header.php:73
+msgid "menu"
+msgstr ""
+
+#: ../konado/image.php:138
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date"
+"\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title="
+"\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s"
+"\" rel=\"gallery\">%8$s</a>."
+msgstr ""
+
+#: ../konado/image.php:159
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../konado/image.php:160
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../konado/include/konadowidgets.php:7
+msgid "Konado Widgets"
+msgstr ""
+
+#: ../konado/include/konadowidgets.php:10
+msgid "Display recent posts, comments, popular posts"
+msgstr ""
+
+#: ../konado/include/konadowidgets.php:129
+msgid "says"
+msgstr ""
+
+#: ../konado/include/konadowidgets.php:170 ../konado/include/vertical_menu_widgets.php:88
+msgid "Title:"
+msgstr ""
+
+#: ../konado/include/konadowidgets.php:174
+msgid "Amount:"
+msgstr ""
+
+#: ../konado/include/konadowidgets.php:178
+msgid "Image size (example: 50,50):"
+msgstr ""
+
+#: ../konado/include/konadowidgets.php:182
+msgid "Widget Type:"
+msgstr ""
+
+#: ../konado/include/konadowidgets.php:184
+msgid "Recent Posts"
+msgstr ""
+
+#: ../konado/include/konadowidgets.php:185
+msgid "Popular Posts"
+msgstr ""
+
+#: ../konado/include/konadowidgets.php:186
+msgid "Recent Comments"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:7
+msgid "Yes"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:8
+msgid "No"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:13
+msgid "Fade"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:14
+msgid "Slide"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:20
+msgid "Enable slider"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:24 ../konado/include/map_shortcodes.php:30
+#: ../konado/include/map_shortcodes.php:37 ../konado/include/map_shortcodes.php:44
+#: ../konado/include/map_shortcodes.php:51 ../konado/include/map_shortcodes.php:58
+#: ../konado/include/map_shortcodes.php:67 ../konado/include/map_shortcodes.php:75
+#: ../konado/include/map_shortcodes.php:83 ../konado/include/map_shortcodes.php:90
+#: ../konado/include/map_shortcodes.php:97 ../konado/include/map_shortcodes.php:105
+msgid "Slider Options"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:28
+msgid "Items Default"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:35
+msgid "Item Desktop"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:42
+msgid "Item Small"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:49
+msgid "Item Tablet"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:56
+msgid "Item Mobile"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:63
+msgid "Navigation"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:71
+msgid "Pagination"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:79
+msgid "Speed sider"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:87
+msgid "Slider Auto"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:94
+msgid "Slider loop"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:101
+msgid "Effects"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:117
+msgid "Main Menu"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:120 ../konado/include/map_shortcodes.php:129
+#: ../konado/include/map_shortcodes.php:140 ../konado/include/map_shortcodes.php:150
+#: ../konado/include/map_shortcodes.php:160 ../konado/include/map_shortcodes.php:195
+#: ../konado/include/map_shortcodes.php:229 ../konado/include/map_shortcodes.php:248
+#: ../konado/include/map_shortcodes.php:289 ../konado/include/map_shortcodes.php:337
+#: ../konado/include/map_shortcodes.php:407 ../konado/include/map_shortcodes.php:425
+#: ../konado/include/map_shortcodes.php:459 ../konado/include/map_shortcodes.php:727
+msgid "Theme"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:137
+msgid "Mini Cart"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:147
+msgid "Product Search"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:157 ../konado/theme-config.php:842
+msgid "Brand Logos"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:167 ../konado/include/map_shortcodes.php:202
+#: ../konado/include/map_shortcodes.php:312
+msgid "Number of columns"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:169 ../konado/include/map_shortcodes.php:204
+msgid "6"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:175 ../konado/include/map_shortcodes.php:210
+#: ../konado/include/map_shortcodes.php:320
+msgid "Number of rows"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:192
+msgid "Categories Carousel"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:226
+msgid "Newsletter Form (MailPoet)"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:235
+msgid "Form ID"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:238
+msgid "Enter form ID here"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:245
+msgid "Time Sale"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:254
+msgid "Date Sale"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:255
+msgid "Date Sale M-D-Y. example: 06-16-2030"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:261
+msgid "The image"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:264
+msgid "Enter description."
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:270
+msgid "Short description"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:277
+msgid "URL"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:278
+msgid "Link go to sale page"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:286
+msgid "Latest posts"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:295
+msgid "Number of posts"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:297
+msgid "5"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:304
+msgid "Excerpt length"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:306
+msgid "20"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:314
+msgid "4"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:343
+msgid "Number of testimonial"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:345
+msgid "10"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:351
+msgid "Display Author"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:362
+msgid "Display Avatar"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:373
+msgid "Avatar image size"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:376
+msgid "Avatar image size in pixels. Default is 50"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:382
+msgid "Display URL"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:393 ../konado/include/shortcodes.php:49
+#: ../konado/include/vertical_menu_widgets.php:53
+msgid "Category"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:395
+msgid "0"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:396
+msgid "ID/slug of the category. Default is 0"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:404
+msgid "Rotating tweets"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:413
+msgid "Twitter user name"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:422
+msgid "Twitter feed"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:431
+msgid "Your Twitter Name(Without the \"@\" symbol)"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:439
+msgid "Number Of Tweets"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:456
+msgid "Google map"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:465
+msgid "Map Height"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:467
+msgid "400"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:468
+msgid "Map height in pixels. Default is 400"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:474
+msgid "Map Zoom"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:476
+msgid "17"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:477
+msgid "Map zoom level, min 0, max 21. Default is 17"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:483 ../konado/include/map_shortcodes.php:531
+#: ../konado/include/map_shortcodes.php:579 ../konado/include/map_shortcodes.php:627
+#: ../konado/include/map_shortcodes.php:675
+msgid "Latitude"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:492 ../konado/include/map_shortcodes.php:540
+#: ../konado/include/map_shortcodes.php:588 ../konado/include/map_shortcodes.php:636
+#: ../konado/include/map_shortcodes.php:684
+msgid "Longtitude"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:501 ../konado/include/map_shortcodes.php:549
+#: ../konado/include/map_shortcodes.php:597 ../konado/include/map_shortcodes.php:645
+#: ../konado/include/map_shortcodes.php:693
+msgid "Address"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:504 ../konado/include/map_shortcodes.php:552
+#: ../konado/include/map_shortcodes.php:600 ../konado/include/map_shortcodes.php:648
+#: ../konado/include/map_shortcodes.php:696
+msgid "If you donot enter coordinate, enter address here"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:511 ../konado/include/map_shortcodes.php:559
+#: ../konado/include/map_shortcodes.php:607 ../konado/include/map_shortcodes.php:655
+#: ../konado/include/map_shortcodes.php:703
+msgid "Marker image"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:514
+msgid "Upload marker image, image size: 40x46 px"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:521 ../konado/include/map_shortcodes.php:569
+#: ../konado/include/map_shortcodes.php:617 ../konado/include/map_shortcodes.php:665
+#: ../konado/include/map_shortcodes.php:713 ../konado/theme-config.php:853
+msgid "Description"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:524
+msgid "Allowed HTML tags: a, i, em, br, strong, h1, h2, h3"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:562 ../konado/include/map_shortcodes.php:610
+#: ../konado/include/map_shortcodes.php:658 ../konado/include/map_shortcodes.php:706
+msgid "Upload marker image"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:572
+msgid "Allowed HTML tags: a, i, em, br, strong, p, h2, h2, h3"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:620
+msgid "Allowed HTML tags: a, i, em, br, strong, p, h3, h3, h3"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:668
+msgid "Allowed HTML tags: a, i, em, br, strong, p, h4, h4, h4"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:716
+msgid "Allowed HTML tags: a, i, em, br, strong, p, h5, h5, h5"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:724
+msgid "Counter"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:733
+msgid "Image icon"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:736
+msgid "Upload icon image"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:742
+msgid "Number"
+msgstr ""
+
+#: ../konado/include/map_shortcodes.php:750
+msgid "Text"
+msgstr ""
+
+#: ../konado/include/shortcodes.php:53 ../konado/include/vertical_menu_widgets.php:57
+msgid "More Categories"
+msgstr ""
+
+#: ../konado/include/shortcodes.php:54 ../konado/include/vertical_menu_widgets.php:58
+msgid "Close Menu"
+msgstr ""
+
+#: ../konado/include/shortcodes.php:245
+msgid "shopping now"
+msgstr ""
+
+#: ../konado/include/shortcodes.php:318
+msgid "By "
+msgstr ""
+
+#: ../konado/include/vertical_menu_widgets.php:8
+msgid "Vertial Menu Widgets"
+msgstr ""
+
+#: ../konado/include/vertical_menu_widgets.php:11
+msgid "Display vertical menu"
+msgstr ""
+
+#: ../konado/include/wooajax.php:114 ../konado/woocommerce/cart/mini-cart.php:33
+#, php-format
+msgid "%d"
+msgstr ""
+
+#: ../konado/include/wooajax.php:132
+msgid "Product is added to cart"
+msgstr ""
+
+#: ../konado/include/wooajax.php:153 ../konado/woocommerce/cart/mini-cart.php:88
+msgid "View Cart"
+msgstr ""
+
+#: ../konado/index.php:105
+msgid "No posts to display"
+msgstr ""
+
+#: ../konado/index.php:109
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: ../konado/projects/archive-project.php:25 ../konado/projects/content-single-project.php:24
+msgid "Portfolio"
+msgstr ""
+
+#: ../konado/projects/archive-project.php:81
+msgid "All"
+msgstr ""
+
+#: ../konado/road_importdata/importer.php:215
+msgid "Invalid URL Provided."
+msgstr ""
+
+#: ../konado/road_importdata/importer.php:221
+msgid "Could not create Temporary file."
+msgstr ""
+
+#: ../konado/road_importdata/importer.php:350 ../konado/road_importdata/importer.php:398
+#: ../konado/road_importdata/importer.php:402 ../konado/road_importdata/importer.php:411
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../konado/road_importdata/importer.php:403
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that this was caused by "
+"a permissions problem."
+msgstr ""
+
+#: ../konado/road_importdata/importer.php:419
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the importer. Please "
+"consider updating."
+msgstr ""
+
+#: ../konado/road_importdata/importer.php:469
+msgid "Assign Authors"
+msgstr ""
+
+#: ../konado/road_importdata/importer.php:470
+msgid ""
+"To make it easier for you to edit and save the imported content, you may want to reassign "
+"the author of the imported item to an existing user of this site. For example, you may want "
+"to import all the entries as <code>admin</code>s entries."
+msgstr ""
+
+#: ../konado/road_importdata/importer.php:472
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly generated and the new "
+"user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be "
+"necessary."
+msgstr ""
+
+#: ../konado/road_importdata/importer.php:482
+msgid "Import Attachments"
+msgstr ""
+
+#: ../konado/road_importdata/importer.php:485
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ../konado/road_importdata/importer.php:489
+msgid "Submit"
+msgstr ""
+
+#: ../konado/road_importdata/importer.php:502
+msgid "Import author:"
+msgstr ""
+
+#: ../konado/road_importdata/importer.php:513
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../konado/road_importdata/importer.php:516
+msgid "as a new user:"
+msgstr ""
+
+#: ../konado/road_importdata/importer.php:524
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../konado/road_importdata/importer.php:526
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../konado/road_importdata/importer.php:527
+msgid "- Select -"
+msgstr ""
+
+#: ../konado/road_importdata/importer.php:577
+#, php-format
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: ../konado/road_importdata/importer.php:1076
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../konado/road_importdata/importer.php:1156
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../konado/road_importdata/importer.php:1182
+msgid "Invalid file type"
+msgstr ""
+
+#: ../konado/road_importdata/importer.php:1228
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../konado/road_importdata/importer.php:1234
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ../konado/road_importdata/importer.php:1241
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ../konado/road_importdata/importer.php:1246
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../konado/road_importdata/importer.php:1252
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../konado/road_importdata/importer.php:1352
+msgid "Import WordPress"
+msgstr ""
+
+#: ../konado/road_importdata/importer.php:1359
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to ensure "
+"compatibility with newer export files."
+msgstr ""
+
+#: ../konado/road_importdata/importer.php:1374
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, "
+"pages, comments, custom fields, categories, and tags into this site."
+msgstr ""
+
+#: ../konado/road_importdata/importer.php:1375
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ../konado/road_importdata/parsers.php:42 ../konado/road_importdata/parsers.php:78
+#: ../konado/road_importdata/parsers.php:87
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../konado/road_importdata/parsers.php:43
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#: ../konado/road_importdata/parsers.php:91 ../konado/road_importdata/parsers.php:96
+#: ../konado/road_importdata/parsers.php:291 ../konado/road_importdata/parsers.php:476
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ../konado/search.php:69 ../twentyfifteen/search.php:18 ../twentyseventeen/search.php:19
+#: ../twentysixteen/search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../konado/search.php:87
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some different "
+"keywords."
+msgstr ""
+
+#: ../konado/single.php:83
+msgid "&larr;"
+msgstr ""
+
+#: ../konado/single.php:84
+msgid "&rarr;"
+msgstr ""
+
+#: ../konado/tag.php:75
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../konado/theme-config.php:96
+msgid "Section via hook"
+msgstr ""
+
+#: ../konado/theme-config.php:97
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the sections array. "
+"Can be used by child themes to add/remove sections from the options.</p>"
+msgstr ""
+
+#: ../konado/theme-config.php:149
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: ../konado/theme-config.php:156 ../konado/theme-config.php:159
+msgid "Current theme preview"
+msgstr ""
+
+#: ../konado/theme-config.php:166
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: ../konado/theme-config.php:167
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: ../konado/theme-config.php:168 ../twentyfifteen/inc/template-tags.php:102
+#: ../twentyseventeen/inc/template-tags.php:88 ../twentysixteen/inc/template-tags.php:106
+msgid "Tags"
+msgstr ""
+
+#: ../konado/theme-config.php:173
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: ../konado/theme-config.php:173
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: ../konado/theme-config.php:189
+msgid "General"
+msgstr ""
+
+#: ../konado/theme-config.php:190
+msgid "General theme options"
+msgstr ""
+
+#: ../konado/theme-config.php:197
+msgid "Body background"
+msgstr ""
+
+#: ../konado/theme-config.php:198
+msgid "Upload image or select color. Only work with box layout"
+msgstr ""
+
+#: ../konado/theme-config.php:205
+msgid "Wrapper background"
+msgstr ""
+
+#: ../konado/theme-config.php:206
+msgid "Upload image or select color. Background of page wrapper"
+msgstr ""
+
+#: ../konado/theme-config.php:213
+msgid "Page content background"
+msgstr ""
+
+#: ../konado/theme-config.php:214
+msgid "Select background for page content (default: #ffffff)."
+msgstr ""
+
+#: ../konado/theme-config.php:221
+msgid "Border Option"
+msgstr ""
+
+#: ../konado/theme-config.php:222
+msgid "Only color validation can be done on this field type"
+msgstr ""
+
+#: ../konado/theme-config.php:228
+msgid "Back To Top"
+msgstr ""
+
+#: ../konado/theme-config.php:229
+msgid "Show back to top button on all pages"
+msgstr ""
+
+#: ../konado/theme-config.php:236
+msgid "Colors"
+msgstr ""
+
+#: ../konado/theme-config.php:237
+msgid "Color options"
+msgstr ""
+
+#: ../konado/theme-config.php:243
+msgid "Primary Color"
+msgstr ""
+
+#: ../konado/theme-config.php:244
+msgid "Pick a color for primary color (default: #78a206)."
+msgstr ""
+
+#: ../konado/theme-config.php:254
+msgid "Sale Label BG Color"
+msgstr ""
+
+#: ../konado/theme-config.php:255
+msgid "Pick a color for bg sale label (default: #78a206)."
+msgstr ""
+
+#: ../konado/theme-config.php:265
+msgid "Sale Label Text Color"
+msgstr ""
+
+#: ../konado/theme-config.php:266
+msgid "Pick a color for sale label text (default: #ffffff)."
+msgstr ""
+
+#: ../konado/theme-config.php:276
+msgid "Rating Star Color"
+msgstr ""
+
+#: ../konado/theme-config.php:277
+msgid "Pick a color for star of rating (default: #f5c60d)."
+msgstr ""
+
+#: ../konado/theme-config.php:286 ../twentysixteen/inc/customizer.php:160
+msgid "Link Color"
+msgstr ""
+
+#: ../konado/theme-config.php:287
+msgid "Pick a color for link (default: #78a206)."
+msgstr ""
+
+#: ../konado/theme-config.php:298
+msgid "Text selected background"
+msgstr ""
+
+#: ../konado/theme-config.php:299
+msgid "Select background for selected text (default: #91b2c3)."
+msgstr ""
+
+#: ../konado/theme-config.php:307
+msgid "Text selected color"
+msgstr ""
+
+#: ../konado/theme-config.php:308
+msgid "Select color for selected text (default: #ffffff)."
+msgstr ""
+
+#: ../konado/theme-config.php:336
+msgid "Header"
+msgstr ""
+
+#: ../konado/theme-config.php:337
+msgid "Header options"
+msgstr ""
+
+#: ../konado/theme-config.php:344
+msgid "Header Layout"
+msgstr ""
+
+#: ../konado/theme-config.php:346 ../konado/theme-config.php:549
+msgid "Go to Visual Composer => Templates to create/edit layout"
+msgstr ""
+
+#: ../konado/theme-config.php:355
+msgid "Header background"
+msgstr ""
+
+#: ../konado/theme-config.php:356 ../konado/theme-config.php:559
+#: ../konado/theme-config.php:1204
+msgid "Upload image or select color."
+msgstr ""
+
+#: ../konado/theme-config.php:363
+msgid "Header text color"
+msgstr ""
+
+#: ../konado/theme-config.php:364 ../konado/theme-config.php:568
+msgid "Pick a color for top bar text color (default: #363f4d)."
+msgstr ""
+
+#: ../konado/theme-config.php:373
+msgid "Header link color"
+msgstr ""
+
+#: ../konado/theme-config.php:374
+msgid "Pick a color for header link color (default: #78a206)."
+msgstr ""
+
+#: ../konado/theme-config.php:390
+msgid "Top Bar"
+msgstr ""
+
+#: ../konado/theme-config.php:398
+msgid "Top bar text color"
+msgstr ""
+
+#: ../konado/theme-config.php:399
+msgid "Pick a color for top bar text color (default: #91959b)."
+msgstr ""
+
+#: ../konado/theme-config.php:408
+msgid "Top bar link color"
+msgstr ""
+
+#: ../konado/theme-config.php:409
+msgid "Pick a color for top bar link color (default: #91959b)."
+msgstr ""
+
+#: ../konado/theme-config.php:422
+#: ../twentyseventeen/template-parts/navigation/navigation-top.php:17
+#: ../twentysixteen/header.php:47
+msgid "Menu"
+msgstr ""
+
+#: ../konado/theme-config.php:428
+msgid "Mobile menu label"
+msgstr ""
+
+#: ../konado/theme-config.php:429
+msgid "The label for mobile menu (example: Menu, Go to..."
+msgstr ""
+
+#: ../konado/theme-config.php:436
+msgid "Submenu background"
+msgstr ""
+
+#: ../konado/theme-config.php:437
+msgid "Pick a color for sub menu bg (default: #ffffff)."
+msgstr ""
+
+#: ../konado/theme-config.php:446
+msgid "Submenu color"
+msgstr ""
+
+#: ../konado/theme-config.php:447
+msgid "Pick a color for sub menu color (default: #363f4d)."
+msgstr ""
+
+#: ../konado/theme-config.php:463
+msgid "Categories menu background"
+msgstr ""
+
+#: ../konado/theme-config.php:464
+msgid "Pick a color for categories menu background (default: #ffffff)."
+msgstr ""
+
+#: ../konado/theme-config.php:472
+msgid "Categories menu label"
+msgstr ""
+
+#: ../konado/theme-config.php:473
+msgid "The label for categories menu"
+msgstr ""
+
+#: ../konado/theme-config.php:479
+msgid "Number of items"
+msgstr ""
+
+#: ../konado/theme-config.php:480
+msgid "Number of menu items level 1 to show, default value: 9"
+msgstr ""
+
+#: ../konado/theme-config.php:490
+msgid "More items label"
+msgstr ""
+
+#: ../konado/theme-config.php:491
+msgid "The label for more items button"
+msgstr ""
+
+#: ../konado/theme-config.php:497
+msgid "Less items label"
+msgstr ""
+
+#: ../konado/theme-config.php:498
+msgid "The label for less items button"
+msgstr ""
+
+#: ../konado/theme-config.php:504
+msgid "Home Categories Menu"
+msgstr ""
+
+#: ../konado/theme-config.php:505
+msgid "Always show categories menu on home page"
+msgstr ""
+
+#: ../konado/theme-config.php:511
+msgid "Inner Categories Menu"
+msgstr ""
+
+#: ../konado/theme-config.php:512
+msgid "Always show categories menu on inner pages"
+msgstr ""
+
+#: ../konado/theme-config.php:539
+#: ../twentyseventeen/template-parts/footer/footer-widgets.php:18
+msgid "Footer"
+msgstr ""
+
+#: ../konado/theme-config.php:540
+msgid "Footer options"
+msgstr ""
+
+#: ../konado/theme-config.php:547
+msgid "Footer Layout"
+msgstr ""
+
+#: ../konado/theme-config.php:558
+msgid "Footer background"
+msgstr ""
+
+#: ../konado/theme-config.php:567
+msgid "Footer text color"
+msgstr ""
+
+#: ../konado/theme-config.php:577
+msgid "Footer link color"
+msgstr ""
+
+#: ../konado/theme-config.php:578
+msgid "Pick a color for footer link color (default: #363f4d)."
+msgstr ""
+
+#: ../konado/theme-config.php:591 ../konado/theme-config.php:597
+msgid "Social Icons"
+msgstr ""
+
+#: ../konado/theme-config.php:598
+msgid "Enter social links"
+msgstr ""
+
+#: ../konado/theme-config.php:599
+msgid "Drag/drop to re-arrange"
+msgstr ""
+
+#: ../konado/theme-config.php:635
+msgid "Fonts"
+msgstr ""
+
+#: ../konado/theme-config.php:636
+msgid "Fonts options"
+msgstr ""
+
+#: ../konado/theme-config.php:643
+msgid "Body font"
+msgstr ""
+
+#: ../konado/theme-config.php:660
+msgid "Main body font."
+msgstr ""
+
+#: ../konado/theme-config.php:673
+msgid "Heading font"
+msgstr ""
+
+#: ../konado/theme-config.php:690
+msgid "Heading font."
+msgstr ""
+
+#: ../konado/theme-config.php:701
+msgid "Menu font"
+msgstr ""
+
+#: ../konado/theme-config.php:718
+msgid "Menu font."
+msgstr ""
+
+#: ../konado/theme-config.php:730
+msgid "Vertical Menu font"
+msgstr ""
+
+#: ../konado/theme-config.php:747
+msgid "Vertical Menu font."
+msgstr ""
+
+#: ../konado/theme-config.php:759
+msgid "Price font"
+msgstr ""
+
+#: ../konado/theme-config.php:776
+msgid "Price font."
+msgstr ""
+
+#: ../konado/theme-config.php:790
+msgid "Layout"
+msgstr ""
+
+#: ../konado/theme-config.php:791
+msgid "Select page layout: Box or Full Width"
+msgstr ""
+
+#: ../konado/theme-config.php:798 ../twentyseventeen/inc/customizer.php:77
+msgid "Page Layout"
+msgstr ""
+
+#: ../konado/theme-config.php:808
+msgid "Box layout width"
+msgstr ""
+
+#: ../konado/theme-config.php:809
+msgid "Box layout width in pixels, default value: 1770"
+msgstr ""
+
+#: ../konado/theme-config.php:819
+msgid "Preset"
+msgstr ""
+
+#: ../konado/theme-config.php:820
+msgid "Select a preset to quickly apply pre-defined colors and fonts"
+msgstr ""
+
+#: ../konado/theme-config.php:833
+msgid "Show Style Switcher"
+msgstr ""
+
+#: ../konado/theme-config.php:834
+msgid "The style switcher is only for preview on front-end"
+msgstr ""
+
+#: ../konado/theme-config.php:843
+msgid "Upload brand logos and links"
+msgstr ""
+
+#: ../konado/theme-config.php:849
+msgid "Logos"
+msgstr ""
+
+#: ../konado/theme-config.php:850
+msgid "Upload logo image and enter logo link."
+msgstr ""
+
+#: ../konado/theme-config.php:852 ../konado/theme-config.php:872
+#: ../konado/woocommerce/class-wc-widget-cart.php:30
+msgid "Title"
+msgstr ""
+
+#: ../konado/theme-config.php:854 ../konado/theme-config.php:874
+msgid "Link"
+msgstr ""
+
+#: ../konado/theme-config.php:862
+msgid "Categories carousel"
+msgstr ""
+
+#: ../konado/theme-config.php:863
+msgid "Upload category logos and links"
+msgstr ""
+
+#: ../konado/theme-config.php:869 ../konado/woocommerce/cart/cart.php:34
+msgid "Images"
+msgstr ""
+
+#: ../konado/theme-config.php:870
+msgid "Upload Categories image and enter categories link."
+msgstr ""
+
+#: ../konado/theme-config.php:873
+msgid "Number products"
+msgstr ""
+
+#: ../konado/theme-config.php:882 ../twentysixteen/functions.php:156
+msgid "Sidebar"
+msgstr ""
+
+#: ../konado/theme-config.php:883
+msgid "Sidebar options"
+msgstr ""
+
+#: ../konado/theme-config.php:890
+msgid "Shop Sidebar Position"
+msgstr ""
+
+#: ../konado/theme-config.php:891
+msgid "Sidebar on shop page"
+msgstr ""
+
+#: ../konado/theme-config.php:900
+msgid "Pages Sidebar Position"
+msgstr ""
+
+#: ../konado/theme-config.php:901
+msgid "Sidebar on pages"
+msgstr ""
+
+#: ../konado/theme-config.php:910
+msgid "Blog Sidebar Position"
+msgstr ""
+
+#: ../konado/theme-config.php:911
+msgid "Sidebar on Blog pages"
+msgstr ""
+
+#: ../konado/theme-config.php:920
+msgid "Custom Sidebars"
+msgstr ""
+
+#: ../konado/theme-config.php:921
+msgid "Add more sidebars"
+msgstr ""
+
+#: ../konado/theme-config.php:922
+msgid ""
+"Enter sidebar name (Only allow digits and letters). click Add more to add more sidebar. Edit "
+"your page to select a sidebar "
+msgstr ""
+
+#: ../konado/theme-config.php:929 ../konado/woocommerce/cart/cart.php:35
+#: ../konado/woocommerce/cart/cart.php:68 ../konado/woocommerce/checkout/review-order.php:17
+msgid "Product"
+msgstr ""
+
+#: ../konado/theme-config.php:930
+msgid "Use this section to select options for product"
+msgstr ""
+
+#: ../konado/theme-config.php:936
+msgid "Shop Layout"
+msgstr ""
+
+#: ../konado/theme-config.php:946
+msgid "Shop default view"
+msgstr ""
+
+#: ../konado/theme-config.php:956
+msgid "Products per page"
+msgstr ""
+
+#: ../konado/theme-config.php:957
+msgid "Amount of products per page on category page"
+msgstr ""
+
+#: ../konado/theme-config.php:967
+msgid "Product columns"
+msgstr ""
+
+#: ../konado/theme-config.php:968
+msgid "Amount of product columns on category page"
+msgstr ""
+
+#: ../konado/theme-config.php:969 ../konado/theme-config.php:981
+msgid "Only works with: 1, 2, 3, 4, 6"
+msgstr ""
+
+#: ../konado/theme-config.php:979
+msgid "Product columns on full width shop"
+msgstr ""
+
+#: ../konado/theme-config.php:980
+msgid "Amount of product columns on full width category page"
+msgstr ""
+
+#: ../konado/theme-config.php:991
+msgid "Use secondary product image"
+msgstr ""
+
+#: ../konado/theme-config.php:992
+msgid "Show the secondary image when hover on product on list"
+msgstr ""
+
+#: ../konado/theme-config.php:998 ../konado/theme-config.php:1036
+msgid "Up-Sells title"
+msgstr ""
+
+#: ../konado/theme-config.php:1004
+msgid "Cross-Sells title"
+msgstr ""
+
+#: ../konado/theme-config.php:1014
+msgid "Product page"
+msgstr ""
+
+#: ../konado/theme-config.php:1020
+msgid "Related products title"
+msgstr ""
+
+#: ../konado/theme-config.php:1026
+msgid "Number of related products"
+msgstr ""
+
+#: ../konado/theme-config.php:1042
+msgid "ShareThis/AddThis head tag"
+msgstr ""
+
+#: ../konado/theme-config.php:1043
+msgid "Paste your ShareThis or AddThis head tag here"
+msgstr ""
+
+#: ../konado/theme-config.php:1049
+msgid "ShareThis/AddThis code"
+msgstr ""
+
+#: ../konado/theme-config.php:1050
+msgid "Paste your ShareThis or AddThis code here"
+msgstr ""
+
+#: ../konado/theme-config.php:1057 ../konado/theme-config.php:1076
+msgid "Quick View"
+msgstr ""
+
+#: ../konado/theme-config.php:1063
+msgid "View details text"
+msgstr ""
+
+#: ../konado/theme-config.php:1069
+msgid "View all features text"
+msgstr ""
+
+#: ../konado/theme-config.php:1070
+msgid "This is the text on quick view box"
+msgstr ""
+
+#: ../konado/theme-config.php:1077
+msgid "Show quick view button on all pages"
+msgstr ""
+
+#: ../konado/theme-config.php:1085
+msgid "Use this section to select options for blog"
+msgstr ""
+
+#: ../konado/theme-config.php:1091
+msgid "Blog header text"
+msgstr ""
+
+#: ../konado/theme-config.php:1097
+msgid "Blog Layout"
+msgstr ""
+
+#: ../konado/theme-config.php:1109
+msgid "Blog Style"
+msgstr ""
+
+#: ../konado/theme-config.php:1121
+msgid "Width of thumbnail category "
+msgstr ""
+
+#: ../konado/theme-config.php:1127
+msgid "Height of thumbnail category "
+msgstr ""
+
+#: ../konado/theme-config.php:1133
+msgid "Read more text"
+msgstr ""
+
+#: ../konado/theme-config.php:1139
+msgid "Excerpt length on blog page"
+msgstr ""
+
+#: ../konado/theme-config.php:1150
+msgid "Latest posts carousel"
+msgstr ""
+
+#: ../konado/theme-config.php:1157
+msgid "Width of thumbnail "
+msgstr ""
+
+#: ../konado/theme-config.php:1163
+msgid "Height of thumbnail "
+msgstr ""
+
+#: ../konado/theme-config.php:1171
+msgid "Use this section to select options for Testimonials"
+msgstr ""
+
+#: ../konado/theme-config.php:1177
+msgid "Auto scroll"
+msgstr ""
+
+#: ../konado/theme-config.php:1183
+msgid "Animate in (seconds)"
+msgstr ""
+
+#: ../konado/theme-config.php:1184
+msgid "Animate time, default value: 2000"
+msgstr ""
+
+#: ../konado/theme-config.php:1195
+msgid "Error 404 Page"
+msgstr ""
+
+#: ../konado/theme-config.php:1196
+msgid "Error 404 page options"
+msgstr ""
+
+#: ../konado/theme-config.php:1203
+msgid "Error 404 background"
+msgstr ""
+
+#: ../konado/theme-config.php:1212
+msgid "Less Compiler"
+msgstr ""
+
+#: ../konado/theme-config.php:1213
+msgid ""
+"Turn on this option to apply all theme options. Turn of when you have finished changing "
+"theme options and your site is ready."
+msgstr ""
+
+#: ../konado/theme-config.php:1219
+msgid "Enable Less Compiler"
+msgstr ""
+
+#: ../konado/theme-config.php:1226
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: ../konado/theme-config.php:1227
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: ../konado/theme-config.php:1228
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: ../konado/theme-config.php:1232
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: ../konado/theme-config.php:1237
+msgid "Import / Export"
+msgstr ""
+
+#: ../konado/theme-config.php:1238
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr ""
+
+#: ../konado/theme-config.php:1253
+msgid "Theme Information"
+msgstr ""
+
+#: ../konado/theme-config.php:1269
+msgid "Theme Information 1"
+msgstr ""
+
+#: ../konado/theme-config.php:1270 ../konado/theme-config.php:1276
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../konado/theme-config.php:1275
+msgid "Theme Information 2"
+msgstr ""
+
+#: ../konado/theme-config.php:1280
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../konado/theme-config.php:1300 ../konado/theme-config.php:1301
+#: ../twentyseventeen/inc/customizer.php:66
+msgid "Theme Options"
+msgstr ""
+
+#: ../konado/woocommerce/archive-product.php:113
+msgid "View on"
+msgstr ""
+
+#: ../konado/woocommerce/archive-product.php:114
+msgid "Grid"
+msgstr ""
+
+#: ../konado/woocommerce/archive-product.php:115
+msgid "List"
+msgstr ""
+
+#: ../konado/woocommerce/cart/cart.php:36 ../konado/woocommerce/cart/cart.php:86
+msgid "Price"
+msgstr ""
+
+#: ../konado/woocommerce/cart/cart.php:37 ../konado/woocommerce/cart/cart.php:92
+msgid "Quantity"
+msgstr ""
+
+#: ../konado/woocommerce/cart/cart.php:38 ../konado/woocommerce/cart/cart.php:109
+#: ../konado/woocommerce/checkout/review-order.php:18
+#: ../konado/woocommerce/myaccount/my-orders.php:43
+#: ../konado/woocommerce/myaccount/my-orders.php:66
+msgid "Total"
+msgstr ""
+
+#: ../konado/woocommerce/cart/cart.php:39
+msgid "Delete"
+msgstr ""
+
+#: ../konado/woocommerce/cart/cart.php:81
+msgid "Available on backorder"
+msgstr ""
+
+#: ../konado/woocommerce/cart/cart.php:121 ../konado/woocommerce/cart/mini-cart.php:61
+msgid "Remove this item"
+msgstr ""
+
+#: ../konado/woocommerce/cart/cart.php:139
+msgid "Update cart"
+msgstr ""
+
+#: ../konado/woocommerce/cart/cart.php:155
+msgid "Coupon"
+msgstr ""
+
+#: ../konado/woocommerce/cart/cart.php:156
+msgid "Enter your coupon code if you have one."
+msgstr ""
+
+#: ../konado/woocommerce/cart/cart.php:157
+msgid "Coupon code"
+msgstr ""
+
+#: ../konado/woocommerce/cart/cart.php:157
+msgid "Apply coupon"
+msgstr ""
+
+#: ../konado/woocommerce/cart/mini-cart.php:31
+msgid "Shopping Cart"
+msgstr ""
+
+#: ../konado/woocommerce/cart/mini-cart.php:75
+msgid "You have no items in your shopping cart"
+msgstr ""
+
+#: ../konado/woocommerce/cart/mini-cart.php:76 ../konado/woocommerce/cart/mini-cart.php:82
+msgid "Subtotal"
+msgstr ""
+
+#: ../konado/woocommerce/cart/mini-cart.php:87
+msgid "Checkout"
+msgstr ""
+
+#: ../konado/woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: ../konado/woocommerce/checkout/form-checkout.php:49
+msgid "Your order"
+msgstr ""
+
+#: ../konado/woocommerce/checkout/form-login.php:26
+msgid "Returning customer?"
+msgstr ""
+
+#: ../konado/woocommerce/checkout/form-login.php:26
+msgid "Click here to login"
+msgstr ""
+
+#: ../konado/woocommerce/checkout/form-login.php:33
+msgid ""
+"If you have shopped with us before, please enter your details below. If you are a new "
+"customer, please proceed to the Billing &amp; Shipping section."
+msgstr ""
+
+#: ../konado/woocommerce/checkout/review-order.php:50
+msgid "Cart Subtotal"
+msgstr ""
+
+#: ../konado/woocommerce/checkout/review-order.php:97
+msgid "Order Total"
+msgstr ""
+
+#: ../konado/woocommerce/class-wc-widget-cart.php:23
+msgid "Display the user's Cart in the sidebar."
+msgstr ""
+
+#: ../konado/woocommerce/class-wc-widget-cart.php:25
+msgid "WooCommerce Cart"
+msgstr ""
+
+#: ../konado/woocommerce/class-wc-widget-cart.php:29
+#: ../konado/woocommerce/class-wc-widget-cart.php:54
+msgid "Cart"
+msgstr ""
+
+#: ../konado/woocommerce/class-wc-widget-cart.php:35
+msgid "Hide if cart is empty"
+msgstr ""
+
+#: ../konado/woocommerce/content-product-archive.php:159
+msgid "Sku: "
+msgstr ""
+
+#: ../konado/woocommerce/loop/orderby.php:26
+msgid "Sort By"
+msgstr ""
+
+#: ../konado/woocommerce/myaccount/my-orders.php:34
+msgid "Recent Orders"
+msgstr ""
+
+#: ../konado/woocommerce/myaccount/my-orders.php:40
+msgid "Order"
+msgstr ""
+
+#: ../konado/woocommerce/myaccount/my-orders.php:41
+#: ../konado/woocommerce/myaccount/my-orders.php:60
+msgid "Date"
+msgstr ""
+
+#: ../konado/woocommerce/myaccount/my-orders.php:55
+msgid "Order Number"
+msgstr ""
+
+#: ../konado/woocommerce/myaccount/my-orders.php:67
+#, php-format
+msgid "%s for %s item"
+msgstr ""
+
+#: ../konado/woocommerce/myaccount/my-orders.php:76
+msgid "Pay"
+msgstr ""
+
+#: ../konado/woocommerce/myaccount/my-orders.php:83
+msgid "Cancel"
+msgstr ""
+
+#: ../konado/woocommerce/myaccount/my-orders.php:89
+msgid "View"
+msgstr ""
+
+#: ../konado/woocommerce/single-product.php:25
+msgid "single product"
+msgstr ""
+
+#: ../konado/woocommerce/single-product/meta.php:31
+msgid "SKU: "
+msgstr ""
+
+#: ../konado/woocommerce/single-product/meta.php:31
+msgid "N/A"
+msgstr ""
+
+#: ../konado/woocommerce/single-product/meta.php:35
+msgid "Category:"
+msgstr ""
+
+#: ../konado/woocommerce/single-product/meta.php:37
+msgid "Tag:"
+msgstr ""
+
+#: ../konado/woocommerce/single-product/product-image-magnifier.php:43
+msgid "Placeholder"
+msgstr ""
+
+#: ../konado/woocommerce/single-product/stock.php:24
+msgid "Availability: "
+msgstr ""
+
+#: ../twentyfifteen/404.php:17 ../twentyseventeen/404.php:21 ../twentysixteen/404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../twentyfifteen/404.php:21 ../twentyseventeen/404.php:24 ../twentysixteen/404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: ../twentyfifteen/archive.php:49 ../twentyfifteen/index.php:46 ../twentyfifteen/search.php:38
+#: ../twentyseventeen/archive.php:45 ../twentyseventeen/index.php:50
+#: ../twentyseventeen/search.php:43 ../twentysixteen/archive.php:49
+#: ../twentysixteen/index.php:46 ../twentysixteen/search.php:37
+msgid "Previous page"
+msgstr ""
+
+#: ../twentyfifteen/archive.php:50 ../twentyfifteen/index.php:47 ../twentyfifteen/search.php:39
+#: ../twentyseventeen/archive.php:46 ../twentyseventeen/index.php:51
+#: ../twentyseventeen/search.php:44 ../twentysixteen/archive.php:50
+#: ../twentysixteen/index.php:47 ../twentysixteen/search.php:38
+msgid "Next page"
+msgstr ""
+
+#: ../twentyfifteen/archive.php:51 ../twentyfifteen/content-link.php:40
+#: ../twentyfifteen/content-page.php:29 ../twentyfifteen/content.php:42
+#: ../twentyfifteen/image.php:63 ../twentyfifteen/index.php:48 ../twentyfifteen/search.php:40
+#: ../twentyseventeen/archive.php:47 ../twentyseventeen/index.php:52
+#: ../twentyseventeen/search.php:45 ../twentysixteen/archive.php:51
+#: ../twentysixteen/image.php:60 ../twentysixteen/index.php:48 ../twentysixteen/search.php:39
+#: ../twentysixteen/template-parts/content-page.php:27
+#: ../twentysixteen/template-parts/content-single.php:29
+#: ../twentysixteen/template-parts/content.php:37
+msgid "Page"
+msgstr ""
+
+#: ../twentyfifteen/author-bio.php:12
+msgid "Published by"
+msgstr ""
+
+#: ../twentyfifteen/comments.php:31 ../twentysixteen/comments.php:31
+#, php-format
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../twentyfifteen/content-link.php:31 ../twentyfifteen/content.php:33
+#: ../twentyfifteen/inc/template-tags.php:238
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: ../twentyfifteen/content-none.php:22
+#: ../twentyseventeen/template-parts/post/content-none.php:23
+#: ../twentysixteen/template-parts/content-none.php:19
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../twentyfifteen/content-none.php:26 ../twentyseventeen/search.php:50
+#: ../twentysixteen/template-parts/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: ../twentyfifteen/content-none.php:31
+#: ../twentyseventeen/template-parts/post/content-none.php:27
+#: ../twentysixteen/template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: ../twentyfifteen/footer.php:30 ../twentyseventeen/template-parts/footer/site-info.php:18
+#: ../twentysixteen/footer.php:56
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: ../twentyfifteen/footer.php:31 ../twentyseventeen/template-parts/footer/site-info.php:19
+#: ../twentysixteen/footer.php:57
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: ../twentyfifteen/functions.php:86 ../twentyseventeen/functions.php:64
+#: ../twentyseventeen/functions.php:194 ../twentysixteen/functions.php:89
+#: ../twentysixteen/header.php:62
+msgid "Social Links Menu"
+msgstr ""
+
+#: ../twentyfifteen/functions.php:160
+msgid "Widget Area"
+msgstr ""
+
+#: ../twentyfifteen/functions.php:162 ../twentysixteen/functions.php:158
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: ../twentyfifteen/functions.php:212
+msgid "no-subset"
+msgstr ""
+
+#: ../twentyfifteen/functions.php:282 ../twentysixteen/functions.php:284
+msgid "expand child menu"
+msgstr ""
+
+#: ../twentyfifteen/functions.php:283 ../twentysixteen/functions.php:285
+msgid "collapse child menu"
+msgstr ""
+
+#: ../twentyfifteen/header.php:26 ../twentyseventeen/header.php:27
+#: ../twentysixteen/header.php:27
+msgid "Skip to content"
+msgstr ""
+
+#: ../twentyfifteen/header.php:45
+msgid "Menu and widgets"
+msgstr ""
+
+#: ../twentyfifteen/image.php:24 ../twentysixteen/image.php:24
+msgid "Previous Image"
+msgstr ""
+
+#: ../twentyfifteen/image.php:24 ../twentysixteen/image.php:25
+msgid "Next Image"
+msgstr ""
+
+#: ../twentyfifteen/image.php:84 ../twentysixteen/image.php:102 ../twentysixteen/single.php:29
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr ""
+
+#: ../twentyfifteen/inc/back-compat.php:37 ../twentyfifteen/inc/back-compat.php:47
+#: ../twentyfifteen/inc/back-compat.php:60
+#, php-format
+msgid ""
+"Twenty Fifteen requires at least WordPress version 4.1. You are running version %s. Please "
+"upgrade and try again."
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:44 ../twentysixteen/inc/customizer.php:130
+msgid "Base Color Scheme"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:59
+msgid "Header and Sidebar Text Color"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:60 ../twentyfifteen/inc/customizer.php:76
+#: ../twentyfifteen/inc/customizer.php:81
+msgid "Applied to the header on small screens and the sidebar on wide screens."
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:75
+msgid "Header and Sidebar Background Color"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:150 ../twentysixteen/inc/customizer.php:253
+msgid "Default"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:161 ../twentyseventeen/inc/customizer.php:49
+#: ../twentysixteen/inc/customizer.php:263
+msgid "Dark"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:172 ../twentysixteen/inc/customizer.php:293
+msgid "Yellow"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:183
+msgid "Pink"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:194
+msgid "Purple"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:205
+msgid "Blue"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:23
+msgid "Comment navigation"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:26
+msgid "Older Comments"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:30
+msgid "Newer Comments"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:49 ../twentysixteen/template-parts/content.php:14
+msgid "Featured"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:55 ../twentysixteen/inc/template-tags.php:38
+msgid "Format"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:76 ../twentysixteen/inc/template-tags.php:79
+msgid "Posted on"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:85 ../twentysixteen/inc/template-tags.php:25
+msgid "Author"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:91 ../twentyfifteen/inc/template-tags.php:99
+#: ../twentyseventeen/inc/template-tags.php:65 ../twentysixteen/inc/template-tags.php:95
+#: ../twentysixteen/inc/template-tags.php:103
+msgid ", "
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:94 ../twentyseventeen/inc/template-tags.php:84
+#: ../twentysixteen/inc/template-tags.php:98
+msgid "Categories"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:113
+msgid "Full size"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:123 ../twentysixteen/inc/template-tags.php:50
+#, php-format
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: ../twentyfifteen/single.php:34 ../twentysixteen/single.php:35
+msgid "Next post:"
+msgstr ""
+
+#: ../twentyfifteen/single.php:37 ../twentysixteen/single.php:38
+msgid "Previous post:"
+msgstr ""
+
+#: ../twentyseventeen/comments.php:36
+#, php-format
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../twentyseventeen/footer.php:25 ../twentysixteen/footer.php:28
+msgid "Footer Social Links Menu"
+msgstr ""
+
+#: ../twentyseventeen/functions.php:151
+msgid "Espresso"
+msgstr ""
+
+#: ../twentyseventeen/functions.php:155
+msgid "Sandwich"
+msgstr ""
+
+#: ../twentyseventeen/functions.php:159
+msgid "Coffee"
+msgstr ""
+
+#: ../twentyseventeen/functions.php:317
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr ""
+
+#: ../twentyseventeen/functions.php:325
+msgid "Footer 1"
+msgstr ""
+
+#: ../twentyseventeen/functions.php:327 ../twentyseventeen/functions.php:337
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: ../twentyseventeen/functions.php:335
+msgid "Footer 2"
+msgstr ""
+
+#: ../twentyseventeen/functions.php:363
+#: ../twentyseventeen/template-parts/page/content-front-page-panels.php:43
+#: ../twentyseventeen/template-parts/page/content-front-page.php:40
+#: ../twentyseventeen/template-parts/post/content-audio.php:83
+#: ../twentyseventeen/template-parts/post/content-gallery.php:70
+#: ../twentyseventeen/template-parts/post/content-image.php:59
+#: ../twentyseventeen/template-parts/post/content-video.php:82
+#: ../twentyseventeen/template-parts/post/content.php:56
+#: ../twentysixteen/inc/template-tags.php:184 ../twentysixteen/template-parts/content.php:28
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: ../twentyseventeen/functions.php:445
+msgid "Expand child menu"
+msgstr ""
+
+#: ../twentyseventeen/functions.php:446
+msgid "Collapse child menu"
+msgstr ""
+
+#: ../twentyseventeen/inc/back-compat.php:39 ../twentyseventeen/inc/back-compat.php:51
+#: ../twentyseventeen/inc/back-compat.php:66
+#, php-format
+msgid ""
+"Twenty Seventeen requires at least WordPress version 4.7. You are running version %s. Please "
+"upgrade and try again."
+msgstr ""
+
+#: ../twentyseventeen/inc/custom-header.php:49
+msgid "Default Header Image"
+msgstr ""
+
+#: ../twentyseventeen/inc/custom-header.php:119
+msgid "Play background video"
+msgstr ""
+
+#: ../twentyseventeen/inc/custom-header.php:120
+msgid "Pause background video"
+msgstr ""
+
+#: ../twentyseventeen/inc/customizer.php:46
+msgid "Color Scheme"
+msgstr ""
+
+#: ../twentyseventeen/inc/customizer.php:48
+msgid "Light"
+msgstr ""
+
+#: ../twentyseventeen/inc/customizer.php:50
+msgid "Custom"
+msgstr ""
+
+#: ../twentyseventeen/inc/customizer.php:80
+msgid ""
+"When the two-column layout is assigned, the page title is in one column and content is in "
+"the other."
+msgstr ""
+
+#: ../twentyseventeen/inc/customizer.php:82 ../twentyseventeen/inc/customizer.php:131
+msgid "One Column"
+msgstr ""
+
+#: ../twentyseventeen/inc/customizer.php:83 ../twentyseventeen/inc/customizer.php:132
+msgid "Two Column"
+msgstr ""
+
+#: ../twentyseventeen/inc/customizer.php:107
+#, php-format
+msgid "Front Page Section %d Content"
+msgstr ""
+
+#: ../twentyseventeen/inc/customizer.php:108
+msgid ""
+"Select pages to feature in each area from the dropdowns. Add an image to a section by "
+"setting a featured image in the page editor. Empty sections will not be displayed."
+msgstr ""
+
+#: ../twentyseventeen/inc/icon-functions.php:39
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: ../twentyseventeen/inc/icon-functions.php:44
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: ../twentyseventeen/inc/template-tags.php:21
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: ../twentyseventeen/inc/template-tags.php:51
+#, php-format
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr ""
+
+#: ../twentyseventeen/inc/template-tags.php:116 ../twentysixteen/image.php:84
+#: ../twentysixteen/template-parts/content-page.php:37
+#: ../twentysixteen/template-parts/content-search.php:28
+#: ../twentysixteen/template-parts/content-search.php:43
+#: ../twentysixteen/template-parts/content-single.php:45
+#: ../twentysixteen/template-parts/content.php:49
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: ../twentyseventeen/inc/template-tags.php:150
+#, php-format
+msgid "Front Page Section %1$s Placeholder"
+msgstr ""
+
+#: ../twentyseventeen/index.php:27
+msgid "Posts"
+msgstr ""
+
+#: ../twentyseventeen/searchform.php:17 ../twentysixteen/searchform.php:13
+msgid "Search for:"
+msgstr ""
+
+#: ../twentyseventeen/searchform.php:20 ../twentysixteen/searchform.php:16
+msgid "Search"
+msgstr ""
+
+#: ../twentyseventeen/single.php:31
+msgid "Previous Post"
+msgstr ""
+
+#: ../twentyseventeen/single.php:32
+msgid "Next Post"
+msgstr ""
+
+#: ../twentyseventeen/template-parts/header/site-branding.php:34
+#: ../twentyseventeen/template-parts/navigation/navigation-top.php:27
+msgid "Scroll down to content"
+msgstr ""
+
+#: ../twentysixteen/footer.php:17
+msgid "Footer Primary Menu"
+msgstr ""
+
+#: ../twentysixteen/functions.php:166
+msgid "Content Bottom 1"
+msgstr ""
+
+#: ../twentysixteen/functions.php:168 ../twentysixteen/functions.php:178
+msgid "Appears at the bottom of the content on posts and pages."
+msgstr ""
+
+#: ../twentysixteen/functions.php:176
+msgid "Content Bottom 2"
+msgstr ""
+
+#: ../twentysixteen/inc/back-compat.php:41 ../twentysixteen/inc/back-compat.php:53
+#: ../twentysixteen/inc/back-compat.php:68
+#, php-format
+msgid ""
+"Twenty Sixteen requires at least WordPress version 4.4. You are running version %s. Please "
+"upgrade and try again."
+msgstr ""
+
+#: ../twentysixteen/inc/customizer.php:145
+msgid "Page Background Color"
+msgstr ""
+
+#: ../twentysixteen/inc/customizer.php:172
+msgid "Main Text Color"
+msgstr ""
+
+#: ../twentysixteen/inc/customizer.php:184
+msgid "Secondary Text Color"
+msgstr ""
+
+#: ../twentysixteen/inc/customizer.php:273
+msgid "Gray"
+msgstr ""
+
+#: ../twentysixteen/inc/customizer.php:283
+msgid "Red"
+msgstr ""
+
+#: ../twentysixteen/template-parts/biography.php:28
+msgid "Author:"
+msgstr ""
